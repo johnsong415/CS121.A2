@@ -6244,3 +6244,15 @@
 2025-05-01 06:34:19,597 - Worker-0 - INFO - Downloaded https://ics.uci.edu/events/category/graduate-programs/day/2022-07-31/?ical=1, status <200>, using cache ('styx.ics.uci.edu', 9012).
 2025-05-01 06:34:50,138 - Worker-0 - INFO - Downloaded https://ics.uci.edu/events/category/graduate-programs/day/2022-08-01, status <200>, using cache ('styx.ics.uci.edu', 9012).
 2025-05-01 06:35:20,896 - Worker-0 - INFO - Downloaded https://ics.uci.edu/events/category/graduate-programs/day/2022-08-01/?ical=1, status <200>, using cache ('styx.ics.uci.edu', 9012).
+2025-05-01 10:31:02,736 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:37:54,155 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:37:54,690 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:37:55,253 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:37:55,803 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:37:56,379 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2025-05-01 10:38:48,923 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.
+2025-05-01 10:38:57,513 - Worker-0 - INFO - Downloaded https://www.stat.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:38:58,046 - Worker-0 - INFO - Downloaded https://www.informatics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:38:58,591 - Worker-0 - INFO - Downloaded https://www.cs.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:38:59,141 - Worker-0 - INFO - Downloaded https://www.ics.uci.edu, status <200>, using cache ('styx.ics.uci.edu', 9013).
+2025-05-01 10:38:59,717 - Worker-0 - INFO - Frontier is empty. Stopping Crawler.

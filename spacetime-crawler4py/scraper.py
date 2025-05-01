@@ -44,6 +44,7 @@ def extract_next_links(url, resp):
             link_string = link.get('href')
             if link_string is not None:
                 defragged = urldefrag(link_string).url
+                print(defragged)
                 if is_valid(defragged):
                     link_list.append(defragged)
 
@@ -77,7 +78,7 @@ def is_valid(url):
 
         # Stay within domain
         if not re.match(
-            r"(www)?((.\.ics\.uci\.edu\/?.?)|(.\.cs\.uci\.edu\/?.?)|(.\.informatics\.uci\.edu\/?.?)|(.\.stat\.uci\.edu\/?.?)|(today\.uci\.edu\/department\/information_computer_sciences\/?.?))" # is ? necessary?; do we *need* to consider if www isn't there?
+            r"(www)?((.?\.?ics\.uci\.edu\/?.?)|(.?\.?cs\.uci\.edu\/?.?)|(.?\.?informatics\.uci\.edu\/?.?)|(.?\.?stat\.uci\.edu\/?.?)|(.?today\.uci\.edu\/department\/information_computer_sciences\/?.?))" # is ? necessary?; do we *need* to consider if www isn't there?
         , parsed.netloc.lower()):
             return False
         

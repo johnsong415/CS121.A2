@@ -1,0 +1,4794 @@
+BEGIN FILE HERE
+https://www.stat.uci.edu
+
+
+
+
+Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Statistics - Donald Bren School of Information & Computer SciencesDepartment of Statistics - Donald Bren School of Information & Computer Sciences
+Explore
+
+Chair’s Welcome
+What is Statistics?
+Contact the Department
+Tutoring Resources
+
+
+Faculty
+
+Faculty Directory
+Job Opportunities
+
+
+Research
+Graduate Degrees
+
+M.S. & Ph.D. in Statistics
+Master of Data Science
+Current Course Listings
+Graduate Student Directory
+Internships & Employment Opportunities
+Employers of UCI Statistics Students
+
+
+Undergraduate Degrees
+
+B.S. in Data Science
+Minor in Statistics
+Current Course Listings
+
+
+News & Seminars
+
+News
+Seminar
+
+
+Center for Statistical Consulting
+
+
+
+
+
+
+
+
+UCI Launches New Professional Program: Master of Data Science
+
+
+
+
+
+
+
+
+
+
+M.S. & Ph.D. in Statistics
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+
+
+Faculty Directory
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+For more than 20 years, UCI’s Department of Statistics has continued to grow as a leader in creating statistical methodology for use in data science applications. With an emphasis on research in statistical theory and interdisciplinary collaborations, the department has grown over the years to house the Center for Statistical Consulting, providing statistical expertise through collaborative relationships with researchers across the campus and community, and was one of the first in the world to offer an undergraduate degree in data science. Explore the statistics website to learn more about our accomplishments and how you can become part of our community.
+ 
+Job OpportunitiesFor a listing of current academic positions open in the Statistics Department, visit the Academic Recruitment website.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Quick Links:
+News Archive
+Upcoming Seminars
+Seminar Series Archive
+Contact the Department
+
+
+ 
+
+
+
+
+
+© 2025 UC Regents
+Feedback
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.informatics.uci.edu
+
+
+
+
+
+
+
+
+
+Informatics @ the University of California, Irvine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People
+Contact
+Site Map
+News
+
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+Menu
+Skip to content
+Explore
+
+
+Chair’s Welcome
+Faculty Profiles
+Books We Read
+History of the Department
+Seminar Series
+Department Vision
+Books We Have Written
+Visiting the Department
+Facts & Figures
+
+
+
+Graduate Degrees
+
+
+Overview
+Ph.D. Software Engineering
+Policies
+Ph.D. Informatics
+M.S. Software Engineering
+Diversity Ambassador
+M.S. Informatics
+Master of Software Engineering
+Student Profiles
+Master of Human-Computer Interaction & Design
+Courses
+Student Groups
+ 
+ 
+
+
+
+Undergraduate Degrees
+
+
+B.S. Informatics
+Policies
+B.S. Business Information Management
+Special Opportunities
+Student Profiles
+B.S. Game Design and Interactive Media
+Minors
+Student Groups
+B.S. Software Engineering
+Courses
+
+
+
+Admissions
+
+
+Graduate Application Process
+Coming from Abroad
+Housing
+Undergraduate Application Process
+Student Life
+
+
+
+Research
+
+
+Labs & Centers
+Ph.D. Research
+Undergraduate Research
+Areas of Expertise
+Past Dissertations
+Gifts & Grants
+Example Projects
+Masters Research
+Conferences
+
+
+
+Impact
+
+
+Undergraduate Alumni Spotlights
+Outreach
+Graduate Alumni Spotlights
+
+
+
+Support
+
+
+Champion Research
+Become a Corporate Partner
+Share Your Talent
+Support Students
+Provide Projects
+Set Future Agenda
+Post Jobs
+Graduate Resources
+
+
+
+
+
+
+MenuExplore
+
+Chair’s Welcome
+History of the Department
+Department Vision
+Facts & Figures
+Faculty Profiles
+Seminar Series
+Books We Have Written
+Books We Read
+Blogs We Author
+Visiting the Department
+
+
+Graduate Degrees
+
+Ph.D. Informatics
+M.S. Informatics
+Ph.D. Software Engineering
+M.S. Software Engineering
+Master of Human-Computer Interaction & Design
+Master of Software Engineering
+Courses
+Policies
+Diversity Ambassador
+Student Profiles
+Student Groups
+Upcoming Course Schedule
+
+
+Undergraduate Degrees
+
+B.S. Informatics
+B.S. Business Information Management
+B.S. Game Design and Interactive Media
+B.S. Software Engineering
+Special Opportunities
+Minors
+Courses
+Policies
+Student Profiles
+Student Groups
+
+
+Admissions
+
+Graduate Application Process
+Undergraduate Application Process
+Coming from Abroad
+Student Life
+Housing
+
+
+Research
+
+Labs & Centers
+Areas of Expertise
+Example Projects
+Ph.D. Research
+Past Dissertations
+Masters Research
+Undergraduate Research
+Gifts & Grants
+
+
+Impact
+
+Research that Matters
+Graduate Alumni Spotlights
+Undergraduate Alumni Spotlights
+Community Engagement
+Outreach
+
+
+Support
+
+Champion Research
+Support Students
+Become a Corporate Partner
+Provide Projects
+Post Jobs
+Share Your Talent
+Set Future Agenda
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Discover how information technology influences personal life everywhere and how informatics sheds light on what this means for all of us. →
+
+
+
+
+ 
+Learn more about our new Master’s in Software Engineering program, one of 14 graduate, undergraduate and minor degrees that we offer. →
+
+
+
+
+ 
+See how today’s digital age is radically transforming work, and how informatics helps understand and successfully guide individuals and organizations in these transformations. →
+
+
+
+
+ 
+Get a glimpse of what life is like for our undergraduate students, in the the classroom and beyond. →
+
+
+
+
+ 
+Browse the books we have written to learn more about the exciting state of the art in informatics. →
+
+
+
+
+ 
+Sample some of the innovative research being performed by our graduate and undergraduate students, faculty and research staff. →
+
+
+
+
+ 
+Meet one of our faculty members, professor Elena Agapie. →
+
+
+
+
+ 
+Consider how innovation today is unequivocally tied to information technology and how informatics helps advance our collective ability to design and develop breakthrough products. →
+
+
+
+
+ 
+Find out how you too can support us in furthering our research and educational mission. →
+
+
+
+
+
+
+Informatics. It’s the field you’ve never heard of, and the one you know everything about. In a digital age, technology — how we design it, how we use it and how it affects us — touches all aspects of our lives. It shapes the way we live, the way we work and the way we build the foundations of a global society. Informatics is a window into this dynamic relationship, examining the interplay of people and technology and what it means for our collective future.
+
+
+
+
+
+
+People
+Contact
+Site Map
+News
+
+
+
+
+
+
+
+Feedback
+Privacy Policy
+					© 2025 UC Regents
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.cs.uci.edu
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Computer Science - UCI School of Information & Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+Department of Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+Clear
+
+
+Submit
+
+
+
+
+
+
+Explore
+
+
+About
+People
+Contact
+
+
+
+Research
+
+
+Research Areas
+Research Centers
+Impact
+
+
+Faculty Awards & Honors
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+	Student success starts here!
+
+
+
+Undergraduate and graduate students enjoy limitless academic and extracurricular opportunities as part of the ICS community.
+
+
+
+
+Undergraduate Programs
+
+
+Majors & Minors
+ICS Honors Program
+
+
+
+Undergraduate Admissions
+Undergraduate Financial Aid
+Undergraduate Academic Advising
+Graduate Programs
+
+
+Research
+Professional
+
+
+
+Graduate Admissions
+Graduate Financial Support
+Graduate Academic Advising
+Student Experience
+
+
+Outreach, Access & Inclusion
+Career Development
+Clubs & Organizations
+Entrepreneurship
+Undergraduate Research
+Campus Resources
+
+
+
+
+
+
+News
+
+
+Recent News
+
+
+Faculty Spotlights
+Student Spotlights
+Research Spotlights
+Alumni Spotlights
+
+
+
+
+
+
+Events
+
+
+Seminar Series
+
+
+CS Seminar Series
+CS Distinguished Lecture Series
+ACO Center Seminar Series
+HPI Events
+Information Systems Group Talks
+Institute for Future Health Events
+AI/ML Seminar Series
+
+
+
+CS Calendar
+
+
+
+Partnerships
+
+
+Corporate & Community Engagement
+
+
+Capstone Projects
+Research Partnerships
+Student Recruitment
+Corporate Partners Program
+
+
+
+
+
+
+
+
+
+
+Contact UsFollow UsSupport Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+	Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	New Findings on CAPTCHAs Attract Worldwide Attention
+
+
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Undergraduate Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Graduate Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Faculty Recruiting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	News & Updates
+
+
+
+
+
+
+
+
+View Live, Laugh, Zot App Takes First Place at WebJam 2024
+
+
+
+
+Computer Science
+
+
+
+Live, Laugh, Zot App Takes First Place at WebJam 2024
+
+
+December 13, 2024
+
+
+
+
+
+
+
+
+
+
+
+View New Course Stems from Back-to-Back Appearances at ICPC World Finals
+
+
+
+
+News
+
+
+
+New Course Stems from Back-to-Back Appearances at ICPC World Finals
+
+
+December 9, 2024
+
+
+
+
+
+
+
+
+
+
+
+View On His Game
+
+
+
+
+Highlight
+
+
+
+On His Game
+
+
+December 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+View ICS Industry Showcase Drives Innovation
+
+
+
+
+News
+
+
+
+ICS Industry Showcase Drives Innovation
+
+
+November 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+View ICS Honors Our Veterans
+
+
+
+
+Highlight
+
+
+
+ICS Honors Our Veterans
+
+
+November 8, 2024
+
+
+
+
+
+
+
+
+
+
+
+View QT STEM: Promoting LGBTQ+ Visibility & Acceptance in STEM
+
+
+
+
+Clubs & Organizations
+
+
+
+QT STEM: Promoting LGBTQ+ Visibility & Acceptance in STEM
+
+
+November 7, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read more news
+
+
+
+
+
+
+
+
+
+
+	Events & Seminars
+
+
+
+
+
+
+
+
+
+
+
+
+April21
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Fast and Flexible Generative Modeling with Free-Form Flows
+
+
+Felix Draxler
+Postdoctoral Researcher, Department of Computer Science, University of California, Irvine
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Generative models have achieved remarkable quality and success in a variety of machine learning applications, promising to become the standard paradigm for regression. However,…
+
+
+
+
+
+
+
+
+
+April28
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Radiance Fields Advancing 3D Scene Understanding for Robotics and Autonomous Driving
+
+
+Matúš Dopiriak
+PhD Student, Department of Computers and Informatics, Technical University in Košice
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Since emerging in 2020, neural radiance fields (NeRFs) have marked a transformative breakthrough in representing photorealistic 3D scenes. In the years that followed, numerous…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See all events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6210 Donald Bren Hall
+Irvine, CA 92697-3425
+
+
+(949) 824-7427
+
+
+
+
+
+
+
+Like us on Facebook
+
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+Follow us on YouTube
+
+
+
+
+
+Add us on LinkedIn
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+Footer Navigation
+
+DirectoryFaculty & Staff ResourcesFaculty PositionsEmergency PreparednessAccessibilityPrivacy PolicyUCI HomeUCI DirectoryCampus Maps
+
+
+
+© 2025 All Rights Reserved. UCI Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.ics.uci.edu
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home - UC Irvine Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+Clear
+
+
+Submit
+
+
+
+
+
+
+Admissions & AidBecome an Anteater
+
+
+
+
+
+
+
+
+	Your future starts here!
+
+
+
+One of the leading schools of computing in the nation, ICS offers a broad range of undergraduate, graduate research, and graduate professional programs in Computer Science, Informatics, and Statistics with an emphasis on foundations, discovery, and experiential learning.
+
+
+
+Apply Now
+
+
+
+
+
+Welcome to ICS
+
+
+Mission & History
+Facts & Figures
+
+
+
+Admissions
+
+
+Undergraduate
+Graduate
+
+
+
+Paying for School
+
+
+Undergraduate
+Graduate
+
+
+
+
+
+
+Programs & AdvisingThrive as a Student
+
+
+
+
+
+
+
+
+	Student success starts here!
+
+
+
+Undergraduate and graduate students enjoy limitless academic and extracurricular opportunities as part of the ICS community.
+
+
+
+Build Your Student Experience
+
+
+
+
+
+Undergraduate Programs
+
+
+Majors & Minors
+ICS Honors Program
+
+
+
+Undergraduate Academic Advising
+Graduate Programs
+
+
+Research
+Professional
+
+
+
+Graduate Academic Advising
+Student Experience
+
+
+Outreach, Access & Inclusion
+Career Development
+Clubs & Organizations
+Entrepreneurship
+Undergraduate Research
+ICS Tutoring Hub
+Campus Resources
+
+
+
+
+
+
+Research & DepartmentsLearn & Discover
+
+
+
+
+
+
+
+
+	Pushing the boundaries of computing.
+
+
+
+Driven by curiosity and committed to positive change, our diverse community of faculty and students are pioneering computing technologies that are transforming our world.
+
+
+
+Explore Our Research
+
+
+
+
+
+Research at ICS
+
+
+Research Areas
+
+
+
+Departments
+
+
+Computer Science
+Informatics
+Statistics
+
+
+
+People
+Institutes & Centers
+
+
+AI in Science Institute
+Connected Learning Lab
+Future Health
+HPI Machine Learning & Data Science
+Machine Learning & Intelligent Systems
+Responsible, Ethical & Accessible Tech
+
+
+
+Impact
+
+
+Faculty Awards & Honors
+Student Awards & Honors
+Placements in Academia
+Technologies & Startups
+
+
+
+
+
+
+News & EventsGet Involved
+
+
+
+
+
+
+
+
+	Innovate. Collaborate. Stimulate.
+
+
+
+Get involved with the vibrant ICS community.  Check out our news and participate in our events.
+
+
+
+See What's Happening
+
+
+
+
+
+Recent News
+
+
+Faculty Spotlights
+Student Spotlights
+Research Spotlights
+Alumni Spotlights
+
+
+
+Upcoming Events
+ICS Calendar
+Seminar Series
+
+
+ICS Distinguished Lecturer
+Computer Science
+Informatics
+Statistics
+Connected Learning Lab
+Cybersecurity Policy & Research
+Data Science
+Future Health
+Genomics & Bioinformatics
+HPI Machine Learning & Data Science
+Machine Learning & Intelligent Systems
+Responsible, Ethical & Accessible Tech
+Software Research
+
+
+
+Reports & Publications
+
+
+Annual Reports
+New Faculty Brochures
+Newsletters
+
+
+
+
+
+
+Alumni & PartnersMake an Impact
+
+
+
+
+
+
+
+
+	Connecting with industry, engaging the community.
+
+
+
+From sponsoring capstone projects and becoming a corporate partner to supporting student scholarships and recruiting ICS students and alumni, your partnering opportunities are endless in ICS.
+
+
+
+Get Involved
+
+
+
+
+
+Alumni
+
+
+Events
+Hall of Fame
+
+
+
+Corporate & Community Engagement
+
+
+Capstone Projects
+Research Partnerships
+Student Recruitment
+Corporate Partners
+Industry Advisory Board
+
+
+
+Leadership Council
+Make a Gift
+
+
+
+
+
+
+
+Contact UsFollow UsSupport Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+	Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	ICS Faculty Named AAAS Fellows
+
+
+
+Congratulations to Nalini Venkatasubramanian and Thomas Zimmermann—two of the five UC Irvine faculty members named AAAS Fellows.
+
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Undergraduate Programs
+
+
+
+With an emphasis on fundamentals and experiential and lifelong learning, our undergraduate majors and minors form an excellent foundation for professional life or graduate school.
+
+
+Learn more about our degrees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Graduate Programs
+
+
+
+Join a community of more than 1,000 doctoral and master’s students who are driven by curiosity and a passion to make a positive impact to our world through advances in computing. 
+
+
+Explore our graduate programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Faculty Recruiting
+
+
+
+ICS is recruiting for multiple tenure-track faculty positions. We are seeking candidates, individuals or in groups, with a passion for research, teaching, and real-world impact.
+
+
+View our open faculty positions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	News & Updates
+
+
+
+
+
+
+
+
+View A Smartwatch App for Monitoring Intoxication
+
+
+
+
+Research
+
+
+
+A Smartwatch App for Monitoring Intoxication
+
+
+April 14, 2025
+
+
+
+
+
+
+
+
+
+
+
+View How ‘cozy gaming’ is taking mindfulness mainstream
+
+
+
+
+Highlight
+
+
+
+How ‘cozy gaming’ is taking mindfulness mainstream
+
+
+April 7, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Tech Entrepreneur TJ Thinakaran Prioritizes Principles & People
+
+
+
+
+News
+
+
+
+Tech Entrepreneur TJ Thinakaran Prioritizes Principles & People
+
+
+April 1, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Two ICS Professors Among Five UC Irvine Researchers Named AAAS Fellows
+
+
+
+
+Awards & Honors
+
+
+
+Two ICS Professors Among Five UC Irvine Researchers Named AAAS Fellows
+
+
+March 27, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Ribbon-Cutting Ceremony Marks Milestones for the Connected Learning Lab
+
+
+
+
+News
+
+
+
+Ribbon-Cutting Ceremony Marks Milestones for the Connected Learning Lab
+
+
+March 24, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Nalini Venkatasubramanian Named an IEEE Fellow
+
+
+
+
+Awards & Honors
+
+
+
+Nalini Venkatasubramanian Named an IEEE Fellow
+
+
+March 24, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read more news
+
+
+
+
+
+
+
+
+
+
+	Our Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Connected Learning Lab
+
+
+
+Mobilizing innovative learning technologies.
+
+
+
+Explore CLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Center for Responsible, Ethical, and Accessible Technology
+
+
+
+Expanding equitable technology access.
+
+
+
+Explore CREATE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	HPI Research Center in Machine Learning and Data Science
+
+
+
+Making AI more adaptive, safe and human-centered.
+
+
+
+Explore HPI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Upcoming Events
+
+
+
+
+
+
+
+
+
+
+
+
+April18
+
+
+
+
+
+Informatics Seminar Series
+
+
+	The Internet is Good for You. The Internet is Bad for You.
+
+
+Casey Fiesler
+Associate Professor of Information Science, University of Colorado Boulder
+2:00 PM6011, 
+
+Abstract: Hardly a week passes without a new ethical controversy centering on our lives online: privacy violations, trolling and harassment, misinformation, negative impacts on mental…
+
+
+
+
+
+
+
+
+
+April19
+
+
+
+
+
+Admitted Student Event
+
+
+	Celebrate UCI 2025
+
+
+Aldrich Park
+
+9:00 AMAldrich Park
+
+Join us in Aldrich Park for the Campus Orgs Fair at Celebrate UCI on Saturday, April 19, 2025! Enjoy a fun-filled festival in the heart of campus, meet current and new students, take a campus tour, and get to know your new home.
+
+
+
+
+
+
+
+
+
+April21
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Fast and Flexible Generative Modeling with Free-Form Flows
+
+
+Felix Draxler
+Postdoctoral Researcher, Department of Computer Science, University of California, Irvine
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Generative models have achieved remarkable quality and success in a variety of machine learning applications, promising to become the standard paradigm for regression. However,…
+
+
+
+
+
+
+
+
+
+April22
+
+
+
+
+
+Fundraising Event
+
+
+	Giving Day 2025
+
+
+givingday.uci.edu
+
+8:00 AM
+
+UCI’s Giving Day provide much-needed support for ICS undergraduate and graduate students and their amazing cutting-edge research, but it’s also about investing in the future workforce. With your help, ICS students can and will remain at the forefront of computer science, informatics and statistics, ensuring no student is left behind.
+
+
+
+
+
+
+
+
+
+April24
+
+
+
+
+
+Statistics Seminar Series
+
+
+	Covariate Adjusted Response Adaptive Design with Delayed Outcomes
+
+
+Jingshen Wang
+Assistant Professor, Biostatistics UC Berkeley
+4:00 PM6011, Donald Bren Hall
+
+Abstract: Covariate-adjusted response adaptive (CARA) designs have gained widespread adoption for their clear benefits in enhancing experimental efficiency and participant welfare. These designs dynamically adjust…
+
+
+
+
+
+
+
+
+
+April25
+
+
+
+
+
+Informatics Seminar Series
+
+
+	Between Model and World: Trust, Transparency, and Theory of Mind in AI Systems
+
+
+Beth Coleman
+Associate Professor of Data & Cities at the Institute of Communication, Culture, Information and Technology and Faculty of Information, University of Toronto
+2:00 PM6011, Donald Bren Hall
+
+Abstract: This talk works through a disciplinary survey of what constitutes trust and trustworthiness in human-machine learning interaction. In positing a framing of “trust,” the…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See all events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6210 Donald Bren Hall
+Irvine, CA 92697-3425
+
+
+(949) 824-7427
+
+
+
+
+
+
+
+Like us on Facebook
+
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+Follow us on YouTube
+
+
+
+
+
+Add us on LinkedIn
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+Footer Navigation
+
+DirectoryFaculty & Staff ResourcesFaculty & Staff PositionsEmergency PreparednessAccessibilityPrivacy PolicyUCI HomeUCI DirectoryCampus Maps
+
+
+
+© 2025 All Rights Reserved. UCI Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Skip to content
+
+
+
+Open toolbar
+
+Accessibility Tools
+ 
+
+
+
+
+Accessibility Tools
+
+
+
+Increase TextIncrease Text 
+
+
+
+Decrease TextDecrease Text 
+
+
+
+GrayscaleGrayscale 
+
+
+
+High ContrastHigh Contrast 
+
+
+
+Negative ContrastNegative Contrast 
+
+
+
+Light BackgroundLight Background 
+
+
+
+Links UnderlineLinks Underline 
+
+
+
+Readable FontReadable Font 
+
+
+
+Reset
+Reset
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.stat.uci.edu
+
+
+
+
+Department of Statistics - Donald Bren School of Information & Computer Sciences – Department of Statistics - Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Statistics - Donald Bren School of Information & Computer SciencesDepartment of Statistics - Donald Bren School of Information & Computer Sciences
+Explore
+
+Chair’s Welcome
+What is Statistics?
+Contact the Department
+Tutoring Resources
+
+
+Faculty
+
+Faculty Directory
+Job Opportunities
+
+
+Research
+Graduate Degrees
+
+M.S. & Ph.D. in Statistics
+Master of Data Science
+Current Course Listings
+Graduate Student Directory
+Internships & Employment Opportunities
+Employers of UCI Statistics Students
+
+
+Undergraduate Degrees
+
+B.S. in Data Science
+Minor in Statistics
+Current Course Listings
+
+
+News & Seminars
+
+News
+Seminar
+
+
+Center for Statistical Consulting
+
+
+
+
+
+
+
+
+UCI Launches New Professional Program: Master of Data Science
+
+
+
+
+
+
+
+
+
+
+M.S. & Ph.D. in Statistics
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+
+
+Faculty Directory
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+For more than 20 years, UCI’s Department of Statistics has continued to grow as a leader in creating statistical methodology for use in data science applications. With an emphasis on research in statistical theory and interdisciplinary collaborations, the department has grown over the years to house the Center for Statistical Consulting, providing statistical expertise through collaborative relationships with researchers across the campus and community, and was one of the first in the world to offer an undergraduate degree in data science. Explore the statistics website to learn more about our accomplishments and how you can become part of our community.
+ 
+Job OpportunitiesFor a listing of current academic positions open in the Statistics Department, visit the Academic Recruitment website.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Quick Links:
+News Archive
+Upcoming Seminars
+Seminar Series Archive
+Contact the Department
+
+
+ 
+
+
+
+
+
+© 2025 UC Regents
+Feedback
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.informatics.uci.edu
+
+
+
+
+
+
+
+
+
+Informatics @ the University of California, Irvine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People
+Contact
+Site Map
+News
+
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+Menu
+Skip to content
+Explore
+
+
+Chair’s Welcome
+Faculty Profiles
+Books We Read
+History of the Department
+Seminar Series
+Department Vision
+Books We Have Written
+Visiting the Department
+Facts & Figures
+
+
+
+Graduate Degrees
+
+
+Overview
+Ph.D. Software Engineering
+Policies
+Ph.D. Informatics
+M.S. Software Engineering
+Diversity Ambassador
+M.S. Informatics
+Master of Software Engineering
+Student Profiles
+Master of Human-Computer Interaction & Design
+Courses
+Student Groups
+ 
+ 
+
+
+
+Undergraduate Degrees
+
+
+B.S. Informatics
+Policies
+B.S. Business Information Management
+Special Opportunities
+Student Profiles
+B.S. Game Design and Interactive Media
+Minors
+Student Groups
+B.S. Software Engineering
+Courses
+
+
+
+Admissions
+
+
+Graduate Application Process
+Coming from Abroad
+Housing
+Undergraduate Application Process
+Student Life
+
+
+
+Research
+
+
+Labs & Centers
+Ph.D. Research
+Undergraduate Research
+Areas of Expertise
+Past Dissertations
+Gifts & Grants
+Example Projects
+Masters Research
+Conferences
+
+
+
+Impact
+
+
+Undergraduate Alumni Spotlights
+Outreach
+Graduate Alumni Spotlights
+
+
+
+Support
+
+
+Champion Research
+Become a Corporate Partner
+Share Your Talent
+Support Students
+Provide Projects
+Set Future Agenda
+Post Jobs
+Graduate Resources
+
+
+
+
+
+
+MenuExplore
+
+Chair’s Welcome
+History of the Department
+Department Vision
+Facts & Figures
+Faculty Profiles
+Seminar Series
+Books We Have Written
+Books We Read
+Blogs We Author
+Visiting the Department
+
+
+Graduate Degrees
+
+Ph.D. Informatics
+M.S. Informatics
+Ph.D. Software Engineering
+M.S. Software Engineering
+Master of Human-Computer Interaction & Design
+Master of Software Engineering
+Courses
+Policies
+Diversity Ambassador
+Student Profiles
+Student Groups
+Upcoming Course Schedule
+
+
+Undergraduate Degrees
+
+B.S. Informatics
+B.S. Business Information Management
+B.S. Game Design and Interactive Media
+B.S. Software Engineering
+Special Opportunities
+Minors
+Courses
+Policies
+Student Profiles
+Student Groups
+
+
+Admissions
+
+Graduate Application Process
+Undergraduate Application Process
+Coming from Abroad
+Student Life
+Housing
+
+
+Research
+
+Labs & Centers
+Areas of Expertise
+Example Projects
+Ph.D. Research
+Past Dissertations
+Masters Research
+Undergraduate Research
+Gifts & Grants
+
+
+Impact
+
+Research that Matters
+Graduate Alumni Spotlights
+Undergraduate Alumni Spotlights
+Community Engagement
+Outreach
+
+
+Support
+
+Champion Research
+Support Students
+Become a Corporate Partner
+Provide Projects
+Post Jobs
+Share Your Talent
+Set Future Agenda
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Discover how information technology influences personal life everywhere and how informatics sheds light on what this means for all of us. →
+
+
+
+
+ 
+Learn more about our new Master’s in Software Engineering program, one of 14 graduate, undergraduate and minor degrees that we offer. →
+
+
+
+
+ 
+See how today’s digital age is radically transforming work, and how informatics helps understand and successfully guide individuals and organizations in these transformations. →
+
+
+
+
+ 
+Get a glimpse of what life is like for our undergraduate students, in the the classroom and beyond. →
+
+
+
+
+ 
+Browse the books we have written to learn more about the exciting state of the art in informatics. →
+
+
+
+
+ 
+Sample some of the innovative research being performed by our graduate and undergraduate students, faculty and research staff. →
+
+
+
+
+ 
+Meet one of our faculty members, professor Elena Agapie. →
+
+
+
+
+ 
+Consider how innovation today is unequivocally tied to information technology and how informatics helps advance our collective ability to design and develop breakthrough products. →
+
+
+
+
+ 
+Find out how you too can support us in furthering our research and educational mission. →
+
+
+
+
+
+
+Informatics. It’s the field you’ve never heard of, and the one you know everything about. In a digital age, technology — how we design it, how we use it and how it affects us — touches all aspects of our lives. It shapes the way we live, the way we work and the way we build the foundations of a global society. Informatics is a window into this dynamic relationship, examining the interplay of people and technology and what it means for our collective future.
+
+
+
+
+
+
+People
+Contact
+Site Map
+News
+
+
+
+
+
+
+
+Feedback
+Privacy Policy
+					© 2025 UC Regents
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.cs.uci.edu
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Computer Science - UCI School of Information & Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+Department of Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+Clear
+
+
+Submit
+
+
+
+
+
+
+Explore
+
+
+About
+People
+Contact
+
+
+
+Research
+
+
+Research Areas
+Research Centers
+Impact
+
+
+Faculty Awards & Honors
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+	Student success starts here!
+
+
+
+Undergraduate and graduate students enjoy limitless academic and extracurricular opportunities as part of the ICS community.
+
+
+
+
+Undergraduate Programs
+
+
+Majors & Minors
+ICS Honors Program
+
+
+
+Undergraduate Admissions
+Undergraduate Financial Aid
+Undergraduate Academic Advising
+Graduate Programs
+
+
+Research
+Professional
+
+
+
+Graduate Admissions
+Graduate Financial Support
+Graduate Academic Advising
+Student Experience
+
+
+Outreach, Access & Inclusion
+Career Development
+Clubs & Organizations
+Entrepreneurship
+Undergraduate Research
+Campus Resources
+
+
+
+
+
+
+News
+
+
+Recent News
+
+
+Faculty Spotlights
+Student Spotlights
+Research Spotlights
+Alumni Spotlights
+
+
+
+
+
+
+Events
+
+
+Seminar Series
+
+
+CS Seminar Series
+CS Distinguished Lecture Series
+ACO Center Seminar Series
+HPI Events
+Information Systems Group Talks
+Institute for Future Health Events
+AI/ML Seminar Series
+
+
+
+CS Calendar
+
+
+
+Partnerships
+
+
+Corporate & Community Engagement
+
+
+Capstone Projects
+Research Partnerships
+Student Recruitment
+Corporate Partners Program
+
+
+
+
+
+
+
+
+
+
+Contact UsFollow UsSupport Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+	Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	New Findings on CAPTCHAs Attract Worldwide Attention
+
+
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Undergraduate Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Graduate Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Faculty Recruiting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	News & Updates
+
+
+
+
+
+
+
+
+View Live, Laugh, Zot App Takes First Place at WebJam 2024
+
+
+
+
+Computer Science
+
+
+
+Live, Laugh, Zot App Takes First Place at WebJam 2024
+
+
+December 13, 2024
+
+
+
+
+
+
+
+
+
+
+
+View New Course Stems from Back-to-Back Appearances at ICPC World Finals
+
+
+
+
+News
+
+
+
+New Course Stems from Back-to-Back Appearances at ICPC World Finals
+
+
+December 9, 2024
+
+
+
+
+
+
+
+
+
+
+
+View On His Game
+
+
+
+
+Highlight
+
+
+
+On His Game
+
+
+December 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+View ICS Industry Showcase Drives Innovation
+
+
+
+
+News
+
+
+
+ICS Industry Showcase Drives Innovation
+
+
+November 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+View ICS Honors Our Veterans
+
+
+
+
+Highlight
+
+
+
+ICS Honors Our Veterans
+
+
+November 8, 2024
+
+
+
+
+
+
+
+
+
+
+
+View QT STEM: Promoting LGBTQ+ Visibility & Acceptance in STEM
+
+
+
+
+Clubs & Organizations
+
+
+
+QT STEM: Promoting LGBTQ+ Visibility & Acceptance in STEM
+
+
+November 7, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read more news
+
+
+
+
+
+
+
+
+
+
+	Events & Seminars
+
+
+
+
+
+
+
+
+
+
+
+
+April21
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Fast and Flexible Generative Modeling with Free-Form Flows
+
+
+Felix Draxler
+Postdoctoral Researcher, Department of Computer Science, University of California, Irvine
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Generative models have achieved remarkable quality and success in a variety of machine learning applications, promising to become the standard paradigm for regression. However,…
+
+
+
+
+
+
+
+
+
+April28
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Radiance Fields Advancing 3D Scene Understanding for Robotics and Autonomous Driving
+
+
+Matúš Dopiriak
+PhD Student, Department of Computers and Informatics, Technical University in Košice
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Since emerging in 2020, neural radiance fields (NeRFs) have marked a transformative breakthrough in representing photorealistic 3D scenes. In the years that followed, numerous…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See all events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6210 Donald Bren Hall
+Irvine, CA 92697-3425
+
+
+(949) 824-7427
+
+
+
+
+
+
+
+Like us on Facebook
+
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+Follow us on YouTube
+
+
+
+
+
+Add us on LinkedIn
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+Footer Navigation
+
+DirectoryFaculty & Staff ResourcesFaculty PositionsEmergency PreparednessAccessibilityPrivacy PolicyUCI HomeUCI DirectoryCampus Maps
+
+
+
+© 2025 All Rights Reserved. UCI Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END FILE HERE
+BEGIN FILE HERE
+https://www.ics.uci.edu
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home - UC Irvine Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+Clear
+
+
+Submit
+
+
+
+
+
+
+Admissions & AidBecome an Anteater
+
+
+
+
+
+
+
+
+	Your future starts here!
+
+
+
+One of the leading schools of computing in the nation, ICS offers a broad range of undergraduate, graduate research, and graduate professional programs in Computer Science, Informatics, and Statistics with an emphasis on foundations, discovery, and experiential learning.
+
+
+
+Apply Now
+
+
+
+
+
+Welcome to ICS
+
+
+Mission & History
+Facts & Figures
+
+
+
+Admissions
+
+
+Undergraduate
+Graduate
+
+
+
+Paying for School
+
+
+Undergraduate
+Graduate
+
+
+
+
+
+
+Programs & AdvisingThrive as a Student
+
+
+
+
+
+
+
+
+	Student success starts here!
+
+
+
+Undergraduate and graduate students enjoy limitless academic and extracurricular opportunities as part of the ICS community.
+
+
+
+Build Your Student Experience
+
+
+
+
+
+Undergraduate Programs
+
+
+Majors & Minors
+ICS Honors Program
+
+
+
+Undergraduate Academic Advising
+Graduate Programs
+
+
+Research
+Professional
+
+
+
+Graduate Academic Advising
+Student Experience
+
+
+Outreach, Access & Inclusion
+Career Development
+Clubs & Organizations
+Entrepreneurship
+Undergraduate Research
+ICS Tutoring Hub
+Campus Resources
+
+
+
+
+
+
+Research & DepartmentsLearn & Discover
+
+
+
+
+
+
+
+
+	Pushing the boundaries of computing.
+
+
+
+Driven by curiosity and committed to positive change, our diverse community of faculty and students are pioneering computing technologies that are transforming our world.
+
+
+
+Explore Our Research
+
+
+
+
+
+Research at ICS
+
+
+Research Areas
+
+
+
+Departments
+
+
+Computer Science
+Informatics
+Statistics
+
+
+
+People
+Institutes & Centers
+
+
+AI in Science Institute
+Connected Learning Lab
+Future Health
+HPI Machine Learning & Data Science
+Machine Learning & Intelligent Systems
+Responsible, Ethical & Accessible Tech
+
+
+
+Impact
+
+
+Faculty Awards & Honors
+Student Awards & Honors
+Placements in Academia
+Technologies & Startups
+
+
+
+
+
+
+News & EventsGet Involved
+
+
+
+
+
+
+
+
+	Innovate. Collaborate. Stimulate.
+
+
+
+Get involved with the vibrant ICS community.  Check out our news and participate in our events.
+
+
+
+See What's Happening
+
+
+
+
+
+Recent News
+
+
+Faculty Spotlights
+Student Spotlights
+Research Spotlights
+Alumni Spotlights
+
+
+
+Upcoming Events
+ICS Calendar
+Seminar Series
+
+
+ICS Distinguished Lecturer
+Computer Science
+Informatics
+Statistics
+Connected Learning Lab
+Cybersecurity Policy & Research
+Data Science
+Future Health
+Genomics & Bioinformatics
+HPI Machine Learning & Data Science
+Machine Learning & Intelligent Systems
+Responsible, Ethical & Accessible Tech
+Software Research
+
+
+
+Reports & Publications
+
+
+Annual Reports
+New Faculty Brochures
+Newsletters
+
+
+
+
+
+
+Alumni & PartnersMake an Impact
+
+
+
+
+
+
+
+
+	Connecting with industry, engaging the community.
+
+
+
+From sponsoring capstone projects and becoming a corporate partner to supporting student scholarships and recruiting ICS students and alumni, your partnering opportunities are endless in ICS.
+
+
+
+Get Involved
+
+
+
+
+
+Alumni
+
+
+Events
+Hall of Fame
+
+
+
+Corporate & Community Engagement
+
+
+Capstone Projects
+Research Partnerships
+Student Recruitment
+Corporate Partners
+Industry Advisory Board
+
+
+
+Leadership Council
+Make a Gift
+
+
+
+
+
+
+
+Contact UsFollow UsSupport Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+	Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	ICS Faculty Named AAAS Fellows
+
+
+
+Congratulations to Nalini Venkatasubramanian and Thomas Zimmermann—two of the five UC Irvine faculty members named AAAS Fellows.
+
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Undergraduate Programs
+
+
+
+With an emphasis on fundamentals and experiential and lifelong learning, our undergraduate majors and minors form an excellent foundation for professional life or graduate school.
+
+
+Learn more about our degrees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Graduate Programs
+
+
+
+Join a community of more than 1,000 doctoral and master’s students who are driven by curiosity and a passion to make a positive impact to our world through advances in computing. 
+
+
+Explore our graduate programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Faculty Recruiting
+
+
+
+ICS is recruiting for multiple tenure-track faculty positions. We are seeking candidates, individuals or in groups, with a passion for research, teaching, and real-world impact.
+
+
+View our open faculty positions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	News & Updates
+
+
+
+
+
+
+
+
+View A Smartwatch App for Monitoring Intoxication
+
+
+
+
+Research
+
+
+
+A Smartwatch App for Monitoring Intoxication
+
+
+April 14, 2025
+
+
+
+
+
+
+
+
+
+
+
+View How ‘cozy gaming’ is taking mindfulness mainstream
+
+
+
+
+Highlight
+
+
+
+How ‘cozy gaming’ is taking mindfulness mainstream
+
+
+April 7, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Tech Entrepreneur TJ Thinakaran Prioritizes Principles & People
+
+
+
+
+News
+
+
+
+Tech Entrepreneur TJ Thinakaran Prioritizes Principles & People
+
+
+April 1, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Two ICS Professors Among Five UC Irvine Researchers Named AAAS Fellows
+
+
+
+
+Awards & Honors
+
+
+
+Two ICS Professors Among Five UC Irvine Researchers Named AAAS Fellows
+
+
+March 27, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Ribbon-Cutting Ceremony Marks Milestones for the Connected Learning Lab
+
+
+
+
+News
+
+
+
+Ribbon-Cutting Ceremony Marks Milestones for the Connected Learning Lab
+
+
+March 24, 2025
+
+
+
+
+
+
+
+
+
+
+
+View Nalini Venkatasubramanian Named an IEEE Fellow
+
+
+
+
+Awards & Honors
+
+
+
+Nalini Venkatasubramanian Named an IEEE Fellow
+
+
+March 24, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read more news
+
+
+
+
+
+
+
+
+
+
+	Our Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Connected Learning Lab
+
+
+
+Mobilizing innovative learning technologies.
+
+
+
+Explore CLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Center for Responsible, Ethical, and Accessible Technology
+
+
+
+Expanding equitable technology access.
+
+
+
+Explore CREATE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	HPI Research Center in Machine Learning and Data Science
+
+
+
+Making AI more adaptive, safe and human-centered.
+
+
+
+Explore HPI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Upcoming Events
+
+
+
+
+
+
+
+
+
+
+
+
+April18
+
+
+
+
+
+Informatics Seminar Series
+
+
+	The Internet is Good for You. The Internet is Bad for You.
+
+
+Casey Fiesler
+Associate Professor of Information Science, University of Colorado Boulder
+2:00 PM6011, 
+
+Abstract: Hardly a week passes without a new ethical controversy centering on our lives online: privacy violations, trolling and harassment, misinformation, negative impacts on mental…
+
+
+
+
+
+
+
+
+
+April19
+
+
+
+
+
+Admitted Student Event
+
+
+	Celebrate UCI 2025
+
+
+Aldrich Park
+
+9:00 AMAldrich Park
+
+Join us in Aldrich Park for the Campus Orgs Fair at Celebrate UCI on Saturday, April 19, 2025! Enjoy a fun-filled festival in the heart of campus, meet current and new students, take a campus tour, and get to know your new home.
+
+
+
+
+
+
+
+
+
+April21
+
+
+
+
+
+AI/ML Seminar Series
+
+
+	Fast and Flexible Generative Modeling with Free-Form Flows
+
+
+Felix Draxler
+Postdoctoral Researcher, Department of Computer Science, University of California, Irvine
+1:00 PM4011, Donald Bren Hall
+
+Abstract: Generative models have achieved remarkable quality and success in a variety of machine learning applications, promising to become the standard paradigm for regression. However,…
+
+
+
+
+
+
+
+
+
+April22
+
+
+
+
+
+Fundraising Event
+
+
+	Giving Day 2025
+
+
+givingday.uci.edu
+
+8:00 AM
+
+UCI’s Giving Day provide much-needed support for ICS undergraduate and graduate students and their amazing cutting-edge research, but it’s also about investing in the future workforce. With your help, ICS students can and will remain at the forefront of computer science, informatics and statistics, ensuring no student is left behind.
+
+
+
+
+
+
+
+
+
+April24
+
+
+
+
+
+Statistics Seminar Series
+
+
+	Covariate Adjusted Response Adaptive Design with Delayed Outcomes
+
+
+Jingshen Wang
+Assistant Professor, Biostatistics UC Berkeley
+4:00 PM6011, Donald Bren Hall
+
+Abstract: Covariate-adjusted response adaptive (CARA) designs have gained widespread adoption for their clear benefits in enhancing experimental efficiency and participant welfare. These designs dynamically adjust…
+
+
+
+
+
+
+
+
+
+April25
+
+
+
+
+
+Informatics Seminar Series
+
+
+	Between Model and World: Trust, Transparency, and Theory of Mind in AI Systems
+
+
+Beth Coleman
+Associate Professor of Data & Cities at the Institute of Communication, Culture, Information and Technology and Faculty of Information, University of Toronto
+2:00 PM6011, Donald Bren Hall
+
+Abstract: This talk works through a disciplinary survey of what constitutes trust and trustworthiness in human-machine learning interaction. In positing a framing of “trust,” the…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See all events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6210 Donald Bren Hall
+Irvine, CA 92697-3425
+
+
+(949) 824-7427
+
+
+
+
+
+
+
+Like us on Facebook
+
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+Follow us on YouTube
+
+
+
+
+
+Add us on LinkedIn
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+Footer Navigation
+
+DirectoryFaculty & Staff ResourcesFaculty & Staff PositionsEmergency PreparednessAccessibilityPrivacy PolicyUCI HomeUCI DirectoryCampus Maps
+
+
+
+© 2025 All Rights Reserved. UCI Donald Bren School of Information & Computer Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Skip to content
+
+
+
+Open toolbar
+
+Accessibility Tools
+ 
+
+
+
+
+Accessibility Tools
+
+
+
+Increase TextIncrease Text 
+
+
+
+Decrease TextDecrease Text 
+
+
+
+GrayscaleGrayscale 
+
+
+
+High ContrastHigh Contrast 
+
+
+
+Negative ContrastNegative Contrast 
+
+
+
+Light BackgroundLight Background 
+
+
+
+Links UnderlineLinks Underline 
+
+
+
+Readable FontReadable Font 
+
+
+
+Reset
+Reset
+
+
+
+
+
+
+
+END FILE HERE

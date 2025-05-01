@@ -1,5 +1,6 @@
 import re
 from urllib.parse import urlparse
+from urllib.parse import urldefrag
 
 from bs4 import BeautifulSoup
 
@@ -24,19 +25,16 @@ def extract_next_links(url, resp):
 
 
     if resp.status != 200:
-        print("ERROR:")
-        print(resp.status)
-        print(resp.error)
+        with open('output.txt', 'a') as f:
+            print("ERROR:", file=f)
+            print(url, file=f)
+            print(resp.status, file=f)
+            print(resp.error, file=f)
+            print("\n", file=f)
+        
         return list()
 
-    #if resp.headers['Content-Type']:
-        #print(resp.headers['Content-Type'])
-        #if resp.headers['Content-Type'] == 'application/pdf':
-            #return list()
-
     else:
-        
-        
         link_list = []
         
         soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
@@ -45,14 +43,12 @@ def extract_next_links(url, resp):
         for link in soup.find_all('a'):
             link_string = link.get('href')
             if link_string is not None:
-                link_string_list = link_string.split("#")
-                if is_valid(link_string_list[0]):
-                    link_list.append(link_string_list[0])
+                defragged = urldefrag(link_string).url
+                print(defragged)
+                if is_valid(defragged):
+                    link_list.append(defragged)
 
         # get body text
-        parsed = urlparse(resp.url)
-        global global_file_count
-        global_file_count = global_file_count + 1
         file_path = "file_results/" + "files" + ".txt"
         with open(file_path, "a") as f:
             f.write("BEGIN FILE HERE\n")
@@ -60,7 +56,12 @@ def extract_next_links(url, resp):
             f.write("\n")
             f.write(soup.get_text())
             f.write("END FILE HERE\n")
-        
+
+        with open('output.txt', 'a') as f:
+            print("Recorded:", file=f)
+            print(url, file=f)
+            print("\n", file=f)
+            
         return link_list
 
     
@@ -77,7 +78,7 @@ def is_valid(url):
 
         # Stay within domain
         if not re.match(
-            r"(www\.)?((ics\.uci\.edu)|(cs\.uci\.edu)|(informatics\.uci\.edu)|(stat\.uci\.edu))" # is ? necessary?; do we *need* to consider if www isn't there?
+            r"(www)?((.?\.?ics\.uci\.edu\/?.?)|(.?\.?cs\.uci\.edu\/?.?)|(.?\.?informatics\.uci\.edu\/?.?)|(.?\.?stat\.uci\.edu\/?.?)|(.?today\.uci\.edu\/department\/information_computer_sciences\/?.?))" # is ? necessary?; do we *need* to consider if www isn't there?
         , parsed.netloc.lower()):
             return False
         
