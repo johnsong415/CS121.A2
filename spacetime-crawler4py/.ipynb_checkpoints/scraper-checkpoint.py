@@ -37,7 +37,7 @@ def extract_next_links(url, resp):
     else:
         link_list = []
 
-        if resp.raw_response.content is None:
+        if resp is None or resp.raw_response is None or resp.raw_response.content is None:
             return list()
         
         soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
