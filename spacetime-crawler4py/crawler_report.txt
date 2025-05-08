@@ -1,0 +1,61 @@
+1. Total Unique Pages: 39093
+
+2. Longest Page: http://www.ics.uci.edu/~kay/wordlist.txt (384932 words)
+
+3. Top 50 Words:
+research: 323235
+ics: 253400
+filter: 235459
+computer: 234849
+science: 206086
+learning: 205880
+undergraduate: 189301
+student: 179212
+events: 178891
+graduate: 176340
+programs: 148368
+informatics: 142857
+systems: 141556
+open: 137069
+statistics: 135755
+alumni: 129896
+close: 117803
+us: 111548
+community: 111028
+machine: 110069
+advising: 103577
+bren: 96815
+donald: 96758
+data: 92791
+computing: 92674
+information: 88455
+future: 78238
+hall: 78147
+spotlights: 77291
+faculty: 76905
+software: 75802
+health: 75253
+corporate: 73701
+areas: 71226
+accessible: 70395
+intelligent: 70177
+series: 65503
+access: 63259
+students: 62845
+school: 61228
+news: 61172
+academic: 55856
+tech: 55421
+honors: 55310
+involved: 54625
+follow: 54602
+day: 54529
+connected: 54422
+centers: 54292
+responsible: 53509
+
+4. Subdomains Found:
+cs.uci.edu, 1
+ics.uci.edu, 37818
+informatics.uci.edu, 1162
+stat.uci.edu, 111
