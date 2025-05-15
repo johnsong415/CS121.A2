@@ -85,3 +85,17 @@ def write_report(output_path, unique_urls, word_counts, subdomain_counts, longes
         f.write("\n4. Subdomains Found:\n")
         for domain, count in sorted_subdomains:
             f.write(f"{domain}, {count}\n")
+
+def main():
+    stopwords = load_stopwords(STOPWORDS_PATH)
+
+    with open(FILES_TXT_PATH, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    unique_urls, word_counts, subdomain_counts, longest_url, max_word_count = parse_file_txt(lines, stopwords)
+    write_report(REPORT_PATH, unique_urls, word_counts, subdomain_counts, longest_url, max_word_count)
+
+
+
+if __name__ == "__main__":
+    main()
